@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Hackathon submission snapshot**
+>
+> This repository preserves the version submitted to **Reinvent the Wheel, 16–18 October 2026**, hosted by [Science Works](https://science.works) and [Inherent Laboratories](https://inherentlabs.ai/).
+>
+> **For the latest version, issues and contributions, visit the original project: [achu730/plotwise](https://github.com/achu730/plotwise).**
+>
+> Submitted version: [`ec3282c`](https://github.com/science-works/rtw-2026-plotwise/tree/ec3282cff0126c5ab66888c7c46f948e24885b2b). This notice was added after submission. Nothing else in the repository has changed.
+
+---
+
 
 # Plotwise
 
